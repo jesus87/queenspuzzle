@@ -1,3 +1,4 @@
+#Author: Jesus Garcia Flores
 # Eight Queens Puzzle
 #   The solution was made it using Genetics Alogorithm with python library DEAP
 #   Printing was made it using Pyplot library
