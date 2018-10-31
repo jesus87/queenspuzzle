@@ -1,5 +1,5 @@
 # Eight Queens Puzzle
-my solution for eight Queens Puzzle , using genetics algorithm written in python 3.6.
+my solution for find the best solution for eight Queens Puzzle , using genetics algorithm written in python 3.6.
 
 * Using Yaml File For Database configuration file (server,port,databaseName,etc..)
 * Postgres SQL For storaging of results
